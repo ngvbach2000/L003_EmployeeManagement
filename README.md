@@ -1,5 +1,5 @@
-# Item Management
-Lab 1: Item Management 
+# Employee Management
+Lab 3: Employee Management
 (Java Desktop)
 
 ## Program Specifications:
